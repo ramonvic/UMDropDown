@@ -10,3 +10,8 @@
 * Xcode 5 or later
 * ARC only
 * iPad only
+
+###Screenshots
+![screenshot 01](https://raw.githubusercontent.com/ramonvic/umdropdown/master/screenshots/shot_01.png)
+![screenshot 02](https://raw.githubusercontent.com/ramonvic/umdropdown/master/screenshots/shot_02.png)
+![screenshot 03](https://raw.githubusercontent.com/ramonvic/umdropdown/master/screenshots/shot_03.png)
