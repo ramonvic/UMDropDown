@@ -1,11 +1,11 @@
-#UMDropDown - Custom dropdowns on iPad
+##UMDropDown - Custom dropdowns on iPad
 
-## Dev Version 
+### Dev Version 
 
-### The project is still just a sketch, need to refactor the code, before it is ready for use.
+#### The project is still just a sketch, need to refactor the code, before it is ready for use.
 
 
-## Requirements
+### Requirements
 
 * Xcode 5 or later
 * ARC only
